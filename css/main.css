@@ -126,6 +126,7 @@ header h2 span {
 
 #contact {
     background-color: #ebebeb;
+    background-color: #b5c7df;
     background-color: #dbe1e9;
 }
 #contact .full-width {
@@ -164,6 +165,7 @@ header h2 span {
     text-decoration: none;
     color: #8897AD;
     color: #3d4550;
+    color: #4B5D67;
     font-weight: bold;
     font-size: 28px;
 }
